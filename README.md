@@ -2,14 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Welcome%20to%20Henderson's%20Space&fontSize=45&animation=twinkling&fontAlignY=35&desc=Virtual%20Creator%20%7C%20Game%20Designer&descAlignY=55&descAlign=62" width="100%" />
 
   <a href="https://github.com/AkiraHenderson">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9C88FF&center=true&vCenter=true&width=600&lines=Virtual+Creator+%26+Storyteller;Game+Designer+for+[THE+SHADOWS];Late+Night+Owl+Worker;Immersed+in+World-Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9C88FF&center=true&vCenter=true&width=800&lines=Virtual+Creator+%26+Storyteller;Game+Designer+for+[THE+SHADOWS];Late+Night+Owl+Worker;Immersed+in+World-Building" alt="Typing SVG" />
   </a>
   
-  <br/>
-  <!-- 소셜 및 연락처 뱃지 (링크 부분의 #을 본인의 실제 주소로 변경하세요) -->
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=9C88FF" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=9C88FF" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=9C88FF" /></a>
+  <br/><br/>
+  
+  <p align="center">
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=9C88FF" /></a>
+    &nbsp;
+    <a href="#"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=9C88FF" /></a>
+    &nbsp;
+    <a href="#"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=9C88FF" /></a>
+  </p>
 </div>
 
 <br/><br/>
