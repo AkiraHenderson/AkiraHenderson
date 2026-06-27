@@ -1,5 +1,5 @@
-<!-- 1. 움직이는 헤더 배너 (twinkling 애니메이션 적용) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20Henderson's%20Space&fontSize=70&animation=twinkling&fontAlignY=40)
+<!-- 1. 반응형으로 수정한 움직이는 헤더 배너 (글씨 크기 축소 및 너비 100% 적용) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20Henderson's%20Space&fontSize=50&animation=twinkling&fontAlignY=40" width="100%" />
 
 ### 🎮 About Me
 * 🎙️ **Virtual Creator**: 버츄얼(Virtual) 크리에이터로 활동하며, 가상 공간에서 다채로운 페르소나를 통해 새로운 소통과 콘텐츠를 만들어가고 있습니다.
@@ -21,14 +21,14 @@
 <br/>
 
 ### 📊 GitHub Stats & Activity
-<!-- 통계 카드 (다크/야간 테마 적용) -->
+<!-- 통계 카드 (다크/야간 테마 적용, AkiraHenderson 아이디 적용 완료) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_NAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_NAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkiraHenderson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraHenderson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </p>
 
-<!-- 잔디(커밋) 3D 애니메이션 위젯 -->
+<!-- 잔디(커밋) 애니메이션 위젯 -->
 <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_NAME&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkiraHenderson&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
