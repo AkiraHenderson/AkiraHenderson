@@ -1,5 +1,5 @@
 <!-- 1. 움직이는 헤더 배너 (twinkling 애니메이션 적용) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20HCl's%20Space&fontSize=70&animation=twinkling&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20Henderson's%20Space&fontSize=70&animation=twinkling&fontAlignY=40)
 
 ### 🎮 About Me
 * 🔭 **Project: THE SHADOWS** (내러티브 중심의 횡스크롤 액션 RPG) 프리 프로덕션 및 기획을 진행하고 있습니다.
